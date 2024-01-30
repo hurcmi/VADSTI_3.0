@@ -1,7 +1,2 @@
 Introduction to AI and ML - Jan.31st & Feb 1st 2024
 =====================================================
-The goal of this module is to provide a high-level introduction of the foundations of Artificial Intelligence and Machine Learning (ML)
-By the end of this module, you will be able to: 
-- Understand the principles of AI and ML
-- Provide key distinctions between both concepts
-- Hands on experience on the ML workflow
